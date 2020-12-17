@@ -1,0 +1,61 @@
+/*
+======================================
+Name : studywork.c
+Author : Roman Liubkin
+Date : 2020/09/18
+Version :
+Copyright : shareware
+Description : work
+======================================
+#include <iostream>
+using namespace std;
+int main()
+{
+int a, b;
+cout << «Введите a: »;
+    cin >> a;
+ b = a * 2;
+cout << «Получилось » << b << endl;
+return 0;
+}
+/*
+======================================
+Name : studywork.c
+Author : Roman Liubkin
+Date : 2020/09/18
+Version :
+Copyright : shareware
+Description : work
+======================================
+#include <iostream>
+using namespace std;
+int main()
+{
+int a;
+cout << «Введите a: »;
+    cin >> a;
+cout << «Получилось » << a << endl;
+return 0;
+}
+/*
+======================================
+Name : studywork.c
+Author : Roman Liubkin
+Date : 2020/09/18
+Version :
+Copyright : shareware
+Description : work
+======================================
+#include <iostream>
+using namespace std;
+int main()
+{
+int a, b, c;
+cout << «Введите a: »;
+cin >> a;
+cout << «Введите b: »;
+cin >> b;
+c = a + b;
+cout << «Сумма a и b равна » << c << endl;
+return 0;
+}
